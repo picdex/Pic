@@ -1,2 +1,2 @@
 # Pic
-This just is a Picture bed
+This just is a PRIVATE Picture bed
